@@ -7,7 +7,7 @@ The primary goal of this project is educational: while POSIX signals are not inh
 
 ## To build and run the code on a Linux system
 First, clone the repository to your local machine:
-`$ git clone <https://github.com/karvona/POSIX-IPC-data-transfer.git>`
+`$ git clone https://github.com/karvona/POSIX-IPC-data-transfer.git`
 
 Go to the repository folder
 `$ cd <repository_folder>`
